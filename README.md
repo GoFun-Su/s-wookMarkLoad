@@ -6,3 +6,5 @@ $("#masonry").wookMarkLoad({
     minHeightSpace: "30px" //最低列和第一列相差值，当小于这个值的时候第一列为最小值
 });
 ```
+参考文章：http://www.jianshu.com/p/0c55eaa07d79 
+
